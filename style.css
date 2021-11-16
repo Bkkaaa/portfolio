@@ -370,7 +370,7 @@ mark {
 
 #about {
   padding-top: 29px;
-  width: 92%;
+  width: 70%;
 }
 
 .about {
@@ -427,7 +427,7 @@ img.pp {
 
 #design {
   padding-top: 50px;
-  width: 92%;
+  width: 70%;
 }
 
 .design {
@@ -442,18 +442,13 @@ img.pp {
 /* Modélisation 3D  Section
 ********************************************************************* */
 
-#logo-tim {
-  padding-top: 130px;
-  width: 90%;
-}
-
 .img .card-img-top {
   max-height: 400px;
 }
 
 #egirl {
   padding: 30px;
-  width: 90%;
+  width: 70%;
   /*   height: 100vh; */
 }
 
@@ -466,14 +461,14 @@ img.pp {
 
 #noctis {
   padding-top: 100px;
-  width: 90%;
+  width: 70%;
 }
 
 /* Montage Vidéo  Section
 ********************************************************************* */
 #own {
   padding-top: 130px;
-  width: 90%;
+  width: 70%;
 }
 
 .own {
@@ -515,7 +510,7 @@ img.pp {
 
 #twitch {
   padding-top: 130px;
-  width: 90%;
+  width: 70%;
   /*   height: 500px; */
 }
 
@@ -536,11 +531,11 @@ img.pp {
 }
 
 .emotecard {
-  max-width: 70%;
+  max-width: 80%;
 }
 
 .emotes {
-  max-width: 70%;
+  max-width: 92%;
 }
 
 /* Footer Section
